@@ -1,0 +1,75 @@
+.btncustom {
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    position: relative;
+    background-color: #ed4e53 !important;
+    line-height: 24px;
+    border: 0 !important;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 30px;
+    transition: .3s;
+    text-transform: uppercase;
+    border-radius: 25px;
+    box-shadow: 4px 3px 24px rgb(237 78 83 / 50%);
+
+}
+
+.btncustom:hover {
+    background-color: rgb(128, 12, 16) !important;
+}
+
+.title {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.subTitle {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.ct-info-box {
+    overflow: hidden;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.map {
+    width: 100%;
+    margin-bottom: 3%;
+    height: 100%;
+    padding: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
+
+.cards {
+    padding: auto;
+    width: 100%;
+}
+
+.form {
+    width: 100%;
+    padding: 3%;
+    margin: auto;
+}
+
+.mapSection {
+    width: 100%;
+    margin: auto;
+}
+
+.cardSection {
+    width: 100%;
+}
+
+.formSection {
+    width: 100%;
+}
