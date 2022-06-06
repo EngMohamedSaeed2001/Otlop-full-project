@@ -26,6 +26,7 @@ run following command: <  npm install  >  after finishing run   < npm start >
 
 
 alerts: 1- You must install node on your device.
+
         2- Wait around 2-3 minutes after opening the browser automatically until the webpage is loaded.
 
 
